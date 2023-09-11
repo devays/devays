@@ -1,14 +1,17 @@
-# Bem-vindo ao Meu Perfil
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-Olá, eu sou [Seu Nome]! 👋
+## Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e programação.
+Sou um desenvolvedor backend com habilidades em <i class="fab fa-java"></i> Java/SpringBoot e experiência em bancos de dados SQL. Estou familiarizado com metodologias ágeis e organização de projetos. Tenho uma sólida compreensão de algoritmos e estruturas de dados e estou constantemente buscando maneiras de expandir minha experiência como desenvolvedor. Sou uma pessoa proativa e estou ansioso para aproveitar oportunidades que me permitam crescer profissionalmente.
 
-- 🌱 Atualmente, estou aprendendo [tecnologia ou linguagem].
-- 💬 Pergunte-me sobre [algo que você goste de discutir].
-- 📫 Como me alcançar: [seu email].
-- 😄 Pronomes: [seus pronomes, por exemplo, ele/dele, ela/dela, ou outros].
+## 🌐 Contato
 
-Sinta-se à vontade para explorar meus projetos e entre em contato comigo!
+- LinkedIn: [Allan Yamada](https://www.linkedin.com/in/allan-yamada-269878208/)
+- Email: allan.yamada16@gmail.com
 
-[Link para seu site pessoal ou redes sociais]
+## Tecnologias
+
+- <i class="fab fa-java"></i> Java
+- SpringBoot (Framework)
+- MySQL (SQL)
+- Git/Github (Versionamento)
