@@ -2,7 +2,7 @@
 
 # Sobre Mim
 
-Sou um desenvolvedor backend com habilidades em <i class="fab fa-java"></i> Java/SpringBoot e experiência em bancos de dados SQL. Estou familiarizado com metodologias ágeis e organização de projetos. Tenho uma sólida compreensão de algoritmos e estruturas de dados e estou constantemente buscando maneiras de expandir minha experiência como desenvolvedor. Sou uma pessoa proativa e estou ansioso para aproveitar oportunidades que me permitam crescer profissionalmente.
+Sou um estudante de analise de dados com habilidades em <i class="fab fa-java"></i> Power BI e Excel, com conhecimentos em bancos de dados SQL. Estou familiarizado com metodologias ágeis e organização de projetos. Tenho uma sólida compreensão de algoritmos e estruturas de dados e estou constantemente buscando maneiras de expandir minha experiência como desenvolvedor. Sou uma pessoa proativa e estou ansioso para aproveitar oportunidades que me permitam crescer profissionalmente.
 
 ## 🌐 Contato
 
